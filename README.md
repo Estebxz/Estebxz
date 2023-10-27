@@ -26,7 +26,7 @@
 
 <br>
 
-<h1 align="center">Tecnologias, Frameworks y demas... </h1>
+<h1 align="left">Tecnologias, Frameworks y demas... </h1>
 
 <div align="center" > 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
