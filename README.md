@@ -16,6 +16,7 @@
 - 🌱 Actualmente estoy **aprendiendo Javascript** <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="React" height="20" />
 
 - ⚡ La imaginacion es mas importante que el conocimiento
+<br>
 
 <h3 align="left"> 📎 Contactame :</h3>
 
