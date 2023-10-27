@@ -21,8 +21,8 @@
 <h3 align="left"> 📎 Contactame :</h3>
 
 <a href="https://api.whatsapp.com/send?phone=%2B573124670836&text=Hola%2C+me+encanto+tu+perfil" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" width="40" /></a>
-<a href="https://www.linkedin.com/in/martinez-esteban/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" style="margin: 10px"  /></a>
-<a href="mailto:estebanmendezm1995@gmail.com?Subject=Oferta%20de%20empleo" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40" style="margin: 10px"  /></a>
+<a href="https://www.linkedin.com/in/martinez-esteban/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" style="margin: 20px"  /></a>
+<a href="mailto:estebanmendezm1995@gmail.com?Subject=Oferta%20de%20empleo" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40" style="margin: 20px"  /></a>
 
 <br>
 
