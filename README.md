@@ -1,4 +1,4 @@
-![banner](https://i.pinimg.com/originals/69/f4/82/69f482612753e4c139c5fb96ddce5680.gif)
+![banner](https://i.pinimg.com/originals/00/41/d6/0041d6d36d8c3a6405ee4182963f62a7.gif)
 
 <h1 align="left">¡HOLA, ME LLAMO ESTEBAN! :floppy_disk: </h1>
 
