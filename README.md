@@ -1,4 +1,6 @@
-![banner](https://i.pinimg.com/originals/00/41/d6/0041d6d36d8c3a6405ee4182963f62a7.gif)
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <img src="https://i.pinimg.com/originals/00/41/d6/0041d6d36d8c3a6405ee4182963f62a7.gif" alt="Banner" style="max-width: 100%; height: auto;">
+</div>
 
 <h1 align="left">¡HOLA, ME LLAMO ESTEBAN! :floppy_disk: </h1>
 
