@@ -49,6 +49,4 @@
 </h2>
 Ademas de mi gusto con One Piece, soy un estudiante de progamacion que tiene como objetivo ser PROGAMADOR, dedico mi tiempo a la creacion de proyectos personales con un fin: demostrar lo que valgo
 
-<div align="center" style="margin: 20px" >
-![LandinPage](https://i.pinimg.com/originals/0d/0a/d1/0d0ad1ac0ab68c733d0e918f8115134f.gif)
-</div>
+
