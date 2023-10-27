@@ -13,7 +13,7 @@
 
 - 🔭 En busca de **Mejorar mis conociemiento y retos**
 
-- 🌱 Actualmente estoy **aprendiendo Javascript** <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="20" />
+- 🌱 Actualmente estoy **aprendiendo React** <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="20" />
 
 - ⚡ La imaginacion es mas importante que el conocimiento
 <br>
