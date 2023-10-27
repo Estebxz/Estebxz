@@ -17,7 +17,7 @@
 
 - ⚡ La imaginacion es mas importante que el conocimiento
 
-<h3 align="center"> 📎 Contactame :</h3>
+<h3 align="left"> 📎 Contactame :</h3>
 
 <a href="https://api.whatsapp.com/send?phone=%2B573124670836&text=Hola%2C+me+encanto+tu+perfil" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" width="40" /></a>
 <a href="https://www.linkedin.com/in/martinez-esteban/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" style="margin: 10px"  /></a>
@@ -27,7 +27,7 @@
 
 <h1 align="center">Tecnologias, Frameworks y demas... </h1>
 
-<div align="center" >
+<div style="display: flex; justify-content: center;" >
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
