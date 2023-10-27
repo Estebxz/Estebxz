@@ -1,6 +1,4 @@
-<div  align="center" style="margin: 20px" >
-  <img src="https://i.pinimg.com/originals/00/41/d6/0041d6d36d8c3a6405ee4182963f62a7.gif" alt="Banner">
-</div>
+![banner](https://i.pinimg.com/originals/c2/2c/c8/c22cc88b41ec15f991044bf25cf8007c.gif)
 
 <h1 align="left">¡HOLA, ME LLAMO ESTEBAN! :floppy_disk: </h1>
 
