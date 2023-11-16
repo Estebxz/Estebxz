@@ -3,7 +3,7 @@
 <h1 align="left">¡HOLA, ME LLAMO ESTEBAN! :floppy_disk: </h1>
 
 <h2 align="center">
-   Estudiante Web Full Stack <br/> 
+   Estudiante Web MERN Stack <br/> 
 💻 desde <mark> &nbsp;Bogotá D.C, Colombia&nbsp;</mark> para el 🌎
 </h2>
 
