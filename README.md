@@ -40,11 +40,14 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 </div>
 
-<h2 align="left">Proyectos</h2>
+
 
 <br>
 
 <div align="center" >
 
-![LandinPage](https://i.pinimg.com/originals/00/41/d6/0041d6d36d8c3a6405ee4182963f62a7.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jpaddeo/jpaddeo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jpaddeo/jpaddeo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 </div>
