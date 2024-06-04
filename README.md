@@ -40,7 +40,7 @@ Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor 
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/akshitagupta15june/vehicle_speed_estimator"><b>💻 Vehicle Speed Estimator</b></a></td>
+	      <td><a href="https://github.com/akshitagupta15june/vehicle_speed_estimator"><b>📸 CodePicture</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/vehicle_speed_estimator?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/vehicle_speed_estimator?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/vehicle_speed_estimator?style=flat-square"/></td>
@@ -57,63 +57,7 @@ Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor 
       </tr>
     </tbody>
   </table>
-
-<br/>  
-  
-
-
-
-<div align="center">
-  
-
-
-
-
-</div>
-
-<div align="center">
-  
-
-
-  
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-  
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/octocat.jpeg" height=300 width=300>
-
- ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
- 
-
-<h2>Connect with me!  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h2>
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshita-gupta-a4a895187/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Akshita_archer/)
-[<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akshitagupta15june)   [<img src="https://img.shields.io/badge/BLOGS-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://akshita1506.home.blog) 
-
-![](https://visitor-badge.glitch.me/badge?page_id=akshitagupta15june.akshitagupta15june)
-
-</div>
-
-
-
-<br/>
-<br/>
-<br/>
-
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<!-- https://github.com/Ayan-thecodeking/akshitagupta15june/blob/output/github-contribution-grid-snake.gif?raw=true -->
-
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------
-Credit: [akshitagupta15june](https://github.com/akshitagupta15june)
-
-Last Edited on: 23/09/2021
-
+<br/>    
 
 <div align="center" >
 
