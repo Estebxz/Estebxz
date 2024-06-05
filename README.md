@@ -1,13 +1,12 @@
 # Hello, folks! 
 
-Meticulous and motivated undergraduate student , indulged in competitive programming,my field of interest is Computer Vision and my B-Tech is focused in Computer Science.I am an open-source enthusiast. I have worked as project admin/mentor in various organisation.
+Meticulous and motivated college student, interested in competitive programming. My field of interest is the web. I am an open source enthusiast. I have worked as a project manager
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
   
 
-🔭 I have  worked as a 
+🔭 I am currently learning:
 
-Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor at SLOP'2020, Mentor at NJACK NWoC 2020(IIT Patna), Project admin at Script, Winter of code 20-21, DevScript Winter of Code S01, Project Mentor at Winter of Code 1.0, Mentor at UAceIt Winter of Mentorship and GSSOC 2021.
-
+ **I am currently learning typescript** <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="20" /> with projects like CODE PICTURE
 
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
@@ -58,6 +57,8 @@ Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor 
     </tbody>
   </table>
 <br/>    
+
+<hr/>
 
 <div align="center" >
 
