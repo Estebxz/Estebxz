@@ -2,7 +2,6 @@
 <p>and I'm a student, My field of interest is the web</p>
 
 ###
-
 <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
 <table>
     <thead align="center">
@@ -17,12 +16,12 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/akshitagupta15june/lane_detection_opencv"><b>🚀 Lane Detection (OpenCV)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/lane_detection_opencv?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/lane_detection_opencv?style=flat-square&labelColor=343b41"/></td>
+	      <td><a href="https://github.com/Dobeyisc/CodePicture"><b>🖼️ Design Tool </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Dobeyisc/CodePicture?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Dobeyisc/CodePicture?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Dobeyisc/CodePicture?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Dobeyisc/CodePicture?style=flat-square"/></td>
       </tr>
   </table>
 
