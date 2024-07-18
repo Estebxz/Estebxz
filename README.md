@@ -16,18 +16,18 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/Dobeyisc/CodePicture"><b>🖼️ Design Tool </b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Dobeyisc/CodePicture?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Dobeyisc/CodePicture?style=flat-square&labelColor=343b41"/></td>
+	      <td><a href="https://github.com/Estebxz/CodePicture"><b>🖼️ Design Tool </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Estebxz/CodePicture?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Estebxz/CodePicture?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Dobeyisc/CodePicture?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Dobeyisc/CodePicture?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Estebxz/CodePicture?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Estebxz/CodePicture?style=flat-square"/></td>
       </tr>
   </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dobeyisc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dobeyisc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Estebxz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Estebxz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
