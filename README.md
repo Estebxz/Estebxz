@@ -1,5 +1,17 @@
-<h1 align="left">¡Hola 👋! Mi nombre es Joan Esteban </h1>
+<h1 align="left">
+  ¡Hola 👋! Mi nombre es <strong>Joan Esteban</strong>
+</h1>
 
+<p>
+  Soy un <strong>desarrollador colombiano</strong>, dedicado a crear 
+  <strong>experiencias digitales interactivas</strong> en la web. 
+  Me encuentro en <strong>constante aprendizaje y mejora</strong>. 
+  En mis ratos libres, me enfoco en <strong>proyectos reales</strong> 
+  donde implemento <strong>buenas prácticas</strong> y 
+  <strong>tecnologías actuales</strong> para ofrecer 
+  <strong>soluciones funcionales</strong> y 
+  <strong>centradas en el usuario</strong>.
+</p>
 <summary><h2><b>🥇 Proyectos Open Source abiertos a contribuciones.</b></h2></summary>
 <table>
     <thead align="left">
@@ -14,19 +26,14 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/Estebxz/Data_insights_Robot_DyRET"><b>🤖 Data_insights_Robot_DyRET </b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Estebxz/Data_insights_Robot_DyRET?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Estebxz/Data_insights_Robot_DyRET?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Estebxz/Data_insights_Robot_DyRET?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Estebxz/Data_insights_Robot_DyRET?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Estebxz/Data_insights_Robot_DyRET?style=flat-square"/></td>
+	      <td><a href="https://github.com/Estebxz/colsof-app"><b>🦋 Colsof.app </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Estebxz/colsof-app?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Estebxz/colsof-app?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Estebxz/colsof-app?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Estebxz/colsof-app?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Estebxz/colsof-app?style=flat-square"/></td>
       </tr>
   </table>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Estebxz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="gráfico de estadísticas"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Estebxz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="gráfico de lenguajes"  />
-</div>
 
 <div align="left">
 	<a href="mailto:estebanmendezm1995@gmail.com@gmail.com" target="_blank">
