@@ -1,17 +1,3 @@
-<h1 align="left">
-  ¡Hola 👋! Mi nombre es <strong>Joan Esteban</strong>
-</h1>
-
-<p>
-  Soy un <strong>desarrollador colombiano</strong>, dedicado a crear 
-  <strong>experiencias digitales interactivas</strong> en la web. 
-  Me encuentro en <strong>constante aprendizaje y mejora</strong>. 
-  En mis ratos libres, me enfoco en <strong>proyectos reales</strong> 
-  donde implemento <strong>buenas prácticas</strong> y 
-  <strong>tecnologías actuales</strong> para ofrecer 
-  <strong>soluciones funcionales</strong> y 
-  <strong>centradas en el usuario</strong>.
-</p>
 <summary><h2><b>🥇 Proyectos Open Source abiertos a contribuciones.</b></h2></summary>
 <table>
     <thead align="left">
